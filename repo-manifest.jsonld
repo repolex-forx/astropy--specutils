@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/astropy/specutils/commit/22ba8446b620cb7d9ab076b1c1204feb481d5da5",
       "git:hexsha": "22ba8446b620cb7d9ab076b1c1204feb481d5da5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T01:22:01.817182+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astropy/specutils/commit/f03b1353a0b00415ce8a1abf253149bbdb73a299",
