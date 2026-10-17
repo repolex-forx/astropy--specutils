@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "specutils",
+  "versions": [
+    {
+      "commit": "22ba8446b620cb7d9ab076b1c1204feb481d5da5",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:22:01.817945+00:00"
+    }
+  ]
+}
